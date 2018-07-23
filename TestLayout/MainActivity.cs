@@ -17,7 +17,7 @@ namespace TestLayout
             base.OnCreate(savedInstanceState);
 
             // Set our view from the "main" layout resource
-            SetContentView(Resource.Layout.fbLogin)
+            SetContentView(Resource.Layout.fbLogin);
         }
     }
 }
